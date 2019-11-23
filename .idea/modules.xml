@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TMDB2.iml" filepath="$PROJECT_DIR$/TMDB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TMDB2.iml" filepath="$PROJECT_DIR$/TMDB2.iml" group="TMDB2" />
     </modules>
   </component>
 </project>
